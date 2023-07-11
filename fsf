@@ -1,0 +1,37 @@
+[33mcommit 299b94dc950a955da10483c3eba2fcaa0832f665[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Vitaly Lankov <vitaliylankov@yandex.ru>
+Date:   Tue Jul 11 22:25:20 2023 +0300
+
+    linked CSS file
+
+[33mcommit c1d95ec187cc456224edd142a5c9180f7f5ea31f[m
+Author: Vit <49372703+VitaliyLankov@users.noreply.github.com>
+Date:   Tue Jul 11 22:23:56 2023 +0300
+
+    Update style.css
+    
+    Just added a div
+
+[33mcommit 3b85d01de2383a582ef650c1da75e20e8d01a6ad[m
+Author: Vitaly Lankov <vitaliylankov@yandex.ru>
+Date:   Tue Jul 11 22:07:02 2023 +0300
+
+    Added html structure
+
+[33mcommit 39b95c915f159a4506041613c07fd3fa7efd96c2[m
+Author: Vitaly Lankov <vitaliylankov@yandex.ru>
+Date:   Tue Jul 11 21:58:43 2023 +0300
+
+    third-commit
+
+[33mcommit 8918f3962fa5ab8d000c26bec2046e6d0db41a54[m
+Author: Vitaly Lankov <vitaliylankov@yandex.ru>
+Date:   Tue Jul 11 20:39:13 2023 +0300
+
+    second commit
+
+[33mcommit 97bf0d9f3c1b11a2ec038e1fcf856e95ee83330f[m
+Author: Vitaly Lankov <vitaliylankov@yandex.ru>
+Date:   Tue Jul 11 20:35:52 2023 +0300
+
+    my first commit
